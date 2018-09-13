@@ -1764,6 +1764,29 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/mbr-1920x1349.jpg");
 }
+.cid-r3wt1NtxmR {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r3wt1NtxmR .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r3wt1NtxmR .section-text {
+  padding: 2rem 0;
+}
+.cid-r3wt1NtxmR .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r3wt1NtxmR .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
